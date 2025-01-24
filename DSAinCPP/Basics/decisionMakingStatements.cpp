@@ -35,6 +35,28 @@ int main(){
         /* code */
     }
     
+
+    //ternary operator -> (condition) ? true : false ;
+
+    // switch
+
+    int x;
+
+    switch (x)
+    {
+    case 10:
+        
+        break;
+
+     case 20:
+
+        break;
+    
+    default:
+        break;
+    }
+
+    
     
     
     return 0;
