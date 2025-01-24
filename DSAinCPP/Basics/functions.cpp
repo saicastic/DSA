@@ -11,7 +11,7 @@ int main(){
     int res;
     res = sum(1,2);
 
-    cout<< res;
+    cout<<res; // Removed endl to prevent extra newline in output.txt
 
     return 0;
 }
