@@ -48,18 +48,15 @@ int main(){
 
     //v. range based "for" loop
 
-    int arr[]={1,2,3,4}
+    int arr[]={1,2,3,4};
 
-    for (int num : arr)
+    for(int num : arr)
     {
         cout << num << " ";
     }
     
     
     
-    
-    
-
     
     return 0;
 }
