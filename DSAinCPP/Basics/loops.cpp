@@ -56,6 +56,11 @@ int main(){
     }
     
     
+    //NOTE : 
+    // i. there are few loop control statements which modifies the flow to execution of the loop
+    //    a. break      ->    ( skips whole loop )
+    //    b. continue   ->    ( skips the current iteration )
+    //    c. goto       ->    ( the goto statement allows you to jumb to a labeled part of the code. generally discouraged because it can make code hard to follow )
     
     
     return 0;
